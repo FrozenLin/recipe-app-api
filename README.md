@@ -1,2 +1,2 @@
 # recipe-app-api
-recipe app source code
+Building a backend using DRF, Docker and TDD.
